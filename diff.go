@@ -1,5 +1,5 @@
-package json_diff
+package diff
 
-func Diff(origin []byte, target []byte) []byte {
+func JsonDiff(origin []byte, target []byte) []byte {
 	return []byte("[]")
 }

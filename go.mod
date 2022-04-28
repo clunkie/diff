@@ -1,3 +1,3 @@
-module github.com/clunkie/json-diff
+module github.com/clunkie/diff
 
 go 1.17
